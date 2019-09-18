@@ -84,7 +84,7 @@ function onError(reason)  {
 
 
 function test(){
-	var url='login.html';	
+	var url='loginindex.html';	
 	openBrowser(url);
 }
 
